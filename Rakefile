@@ -18,5 +18,5 @@ task :publish do
   sh "git tag v#{Mobx::VERSION}"
   sh "git push origin v#{Mobx::VERSION}"
   sh "git push origin master"
-  sh "rm ruby-mobx-#{Mobx::VERSION}.gem"
+  sh "rm mobx-ruby-#{Mobx::VERSION}.gem"
 end

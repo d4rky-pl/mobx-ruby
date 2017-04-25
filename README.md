@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/d4rky-pl/mobx-ruby.svg?branch=master)](https://travis-ci.org/d4rky-pl/mobx-ruby) [![Coverage Status](https://coveralls.io/repos/github/d4rky-pl/mobx-ruby/badge.svg?branch=master)](https://coveralls.io/github/d4rky-pl/mobx-ruby?branch=master) [![Gem Version](https://badge.fury.io/rb/mobx-ruby.svg)](https://badge.fury.io/rb/mobx-ruby)
+
 # Mobx-ruby
 
 An implementation of MobX written in Ruby.

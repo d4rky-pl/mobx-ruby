@@ -1,4 +1,3 @@
-require 'pry'
 module Mobx
   class Observable
     attr_reader :observers
